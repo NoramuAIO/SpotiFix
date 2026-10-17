@@ -6,6 +6,15 @@
   <a href="https://discord.gg/VnevqPp2Rr"><img src="https://img.shields.io/discord/842219447716151306?label=chat&logo=discord&logoColor=discord"></a>
 </p>
 
+## Disclaimer
+
+This project is **not an official Spicetify repository**. It is an independent fork of Spicetify, a Spotify customization tool.
+
+The original project is maintained by the official [Spicetify GitHub organization](https://github.com/spicetify), and the official CLI repository is [spicetify/cli](https://github.com/spicetify/cli).
+
+This fork is independently developed and is **not affiliated with, endorsed by, or officially supported by the Spicetify maintainers**.
+
+For removal requests or other project-related concerns, please contact **`3mustafa5__` on Discord**.
 ---
 
 Command-line tool to customize the official Spotify client.
